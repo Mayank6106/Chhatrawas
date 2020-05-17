@@ -1,4 +1,3 @@
 # Chatrawas
 
-An Android application created in HackNITP 2019 event for hostel management.
-It got the first Position in the event!
+An Android application created in HackNITJ 2019 event for hostel management.
